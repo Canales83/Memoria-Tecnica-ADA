@@ -8,7 +8,7 @@
 
 
 **Objetivo:**
-Bitácora ténica con la recopilación de herramientas utilizadas por un especialista, administrador o científico para el manejo de datos.
+Bitácora técnica con la recopilación de herramientas utilizadas por un especialista, administrador o científico para el manejo de datos.
 
 **Descripción:**
 Se busca crear un registro de todo aquello de lo que se haga uso en los aspectos prácticos y aplicativos de la materia de Almacenamiento de Datos y sus Administración; sea una tarea, un ejercicio o por algo que expresamente se deba conocer. Este registro conforma una bitácora técnica de lo que puede considerarse la recopilación herramientas básica para todo especialista, administrador o científico enfocado al manejo de datos. 
