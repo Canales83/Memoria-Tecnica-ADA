@@ -16,4 +16,4 @@ Se busca crear un registro de todo aquello de lo que se haga uso en los aspectos
 El registro permite conocer como se realizó la selección (si es que hubo), la descarga, instalación y configuración del software empleado, los conceptos básicos y generales de su uso e instrucciones de desinstalación. 
 
 **Organización:**
-El archivo **_"Memoria Técnica ADA.docx"_** estará organizado "por tiempo" honrando el concepto de bitácora por orden de instalación o uso en el tiempo de cada una de las herramientas utilizadas en el curso.
+El archivo **_"Memoria Técnica ADA_v2.docx"_** estará organizado "por tiempo" honrando el concepto de bitácora por orden de instalación o uso en el tiempo de cada una de las herramientas utilizadas en el curso.
